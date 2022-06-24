@@ -1,5 +1,5 @@
 # go-example
-this include all examples follow:
+this include all the examples:
 
 Values                                 <br>
 Variables                              <br>
